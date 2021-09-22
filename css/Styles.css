@@ -1,0 +1,42 @@
+body {
+  background-color: #FFF47D;
+}
+
+hr {
+  border-color: #F6A9A9;
+  border-style: none;
+  border-top-style: dotted;
+  border-top-width: thick;
+  width: 5%;
+}
+
+h1 {
+  text-shadow: 2px 4px 5px #F6A9A9;
+  text-align: center;
+  font-style: italic;
+}
+
+h2 {
+  text-shadow: 2px 4px 5px #F6A9A9;
+  text-align: center;
+}
+
+h3 {
+  text-shadow: 2px 4px 5px #F6A9A9;
+}
+
+h4 {
+  text-shadow: 2px 4px 5px #F6A9A9;
+}
+
+ul {
+  text-shadow: 3px 5px 3px #F6A9A9;
+}
+
+p {
+  text-shadow: 3px 5px 3px #F6A9A9;
+}
+
+ol {
+  text-shadow: 3px 5px 3px #F6A9A9;
+}
